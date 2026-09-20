@@ -1,0 +1,161 @@
+{
+  "source": "/zundong_ke/code/code/Anyverse-VLA",
+  "snapshot": "current working tree, including uncommitted changes",
+  "files": [
+    {
+      "path": "src/core/wj_lerobot/launch_revo2_dinosam_cloud.sh",
+      "sha256": "af285cfe545d44651678b05d4ce5df45838797b3010ea5814bb19116f3cac83e",
+      "bytes": 2090
+    },
+    {
+      "path": "src/core/wj_lerobot/launch_revo2_dinosam_relative_8gpu_40k.sh",
+      "sha256": "95e7888c96f630c85d86cecd571b4eacc578100dacbccdb00b3ab05016fc91d5",
+      "bytes": 988
+    },
+    {
+      "path": "src/core/wj_lerobot/launch_revo2_wj_pretrain_relative_8gpu_40k.sh",
+      "sha256": "0b1b97383466f0569fab19c1f60a77f86ce3184cd98d3a179ad3890ca34b7821",
+      "bytes": 3883
+    },
+    {
+      "path": "src/core/wj_lerobot/training_wjvla.sh",
+      "sha256": "3e99b8f5d396a4b17cc69937ba8a847a2de45e188db5a076c733b43e055cebb1",
+      "bytes": 48157
+    },
+    {
+      "path": "src/core/wj_lerobot/convert_ego_pico_manus_20260917_dinosam.sh",
+      "sha256": "ea7cad5e44920ebdaf900217100cf68ea138594a0c7144f937e5a0e50f3af5cc",
+      "bytes": 783
+    },
+    {
+      "path": "src/core/wj_lerobot/convert_ego_pico_manus_20260917_revo2.sh",
+      "sha256": "cdb4771a338ca467f9838ac81423cc5da5e4fca62ff35d2e748635827c6480a8",
+      "bytes": 1099
+    },
+    {
+      "path": "src/core/wj_lerobot/dataset_tools/convert_revo2_rrd_to_lerobot_dino.py",
+      "sha256": "ee931e027338c5e213e9c1b39d38cb4acf5e652cb0ab054338b59d3e1eaa35d8",
+      "bytes": 19490
+    },
+    {
+      "path": "src/core/wj_lerobot/dataset_tools/validate_revo2_training_dataset.py",
+      "sha256": "c9a0b4cbad9f565f279f4b44bd6e6ea00d17a55c505fc15cb9ce37f9b2b8d660",
+      "bytes": 3911
+    },
+    {
+      "path": "src/core/wj_lerobot/eval/pi05_remote_server.py",
+      "sha256": "b1723b820192403f6809f7927edadaba79ebe304df3b499a4c76dbdb1aa5c829",
+      "bytes": 54561
+    },
+    {
+      "path": "src/core/wj_lerobot/eval/dinosam_pi05_proxy.py",
+      "sha256": "0ff35ef8ae553cf4d9ef3a346877e0b7bc4c4baf2f2e17ffcc2ee0a7463fcc68",
+      "bytes": 7186
+    },
+    {
+      "path": "src/core/wj_lerobot/eval/action_postprocess.py",
+      "sha256": "d644277d4422d693768145cd17a6556e5a138ed53b5ede41b67577da497a8972",
+      "bytes": 8390
+    },
+    {
+      "path": "src/core/wj_lerobot/run_revo2_pi05_remote_server.sh",
+      "sha256": "c92104422b39326cc611a02674e2655c28d383baa41b74d3569028c7f9454a43",
+      "bytes": 1329
+    },
+    {
+      "path": "src/core/wj_lerobot/setup_revo2_server_env.sh",
+      "sha256": "a7e836a45c3a54a66d0b4a2d3cf4459ac1245bb5af73e914911eec86664854c2",
+      "bytes": 1132
+    },
+    {
+      "path": "src/core/wj_lerobot/requirements_revo2_server.txt",
+      "sha256": "50af686360ca8f816db9af40be74ff5156db068cf30e652cf6d08717e24e48db",
+      "bytes": 382
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/scripts/lerobot_train.py",
+      "sha256": "27d4380dd26c182d54246e4f65ab329c5f12ef77ce50576e92fc5d850bd8c7e5",
+      "bytes": 72610
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/configs/train.py",
+      "sha256": "663560bd52edb813134396a9676500011ba494dbb5fcbb59f0d4f7d5866d9c53",
+      "bytes": 17556
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/processor/normalize_processor.py",
+      "sha256": "4876acfa8d3a16c8927b5ba70b9930b9e38c28b137b8c5674217e6e42748a77b",
+      "bytes": 24854
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/utils/dino_masking.py",
+      "sha256": "27e3222505324919b8019cbb25efde7dbf6173cc13cd0e5c30a97c4e68c41c7a",
+      "bytes": 3113
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/utils/sam_box_masking.py",
+      "sha256": "8356032970bbe94deab1631d9624abc0ebfe5556185e69f33d6ee396ae34ad34",
+      "bytes": 1321
+    },
+    {
+      "path": "docs/revo2_dinosam_dataset.md",
+      "sha256": "26c77b4084df2068a4f97be74b7609f237227adefe769e7fb8e8b352deb5aea5",
+      "bytes": 4382
+    },
+    {
+      "path": "docs/revo2_relative_server.md",
+      "sha256": "b8ee9188d137f1b36606fee8ae0fbd5b365c6477d33255ce9a9b312e9ab69c67",
+      "bytes": 6128
+    },
+    {
+      "path": "tests/unit/test_revo2_conversion.py",
+      "sha256": "dd7624362b4ed6f6bf088aaf08759015b533640a859c0f0dd58d54ef84cb9d6b",
+      "bytes": 2243
+    },
+    {
+      "path": "tests/unit/test_revo2_dino_server.py",
+      "sha256": "6ac67058acbeabae92a6e7de6fd996898f8d485aa5379dac645860e0e8a382dc",
+      "bytes": 8005
+    },
+    {
+      "path": "tests/unit/test_revo2_relative.py",
+      "sha256": "4201452051a91b581879172ea9511ae35affde1f38e8252d123c4bd61d8ef160",
+      "bytes": 2812
+    },
+    {
+      "path": "tests/unit/test_sam_box_masking.py",
+      "sha256": "3622e63f0138fe35dc760176e0bb33784423dab77dfc38cf958ee7ad236048cc",
+      "bytes": 1396
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/policies/pi05/README.md",
+      "sha256": "c3fecf4b33703379bb0af147622e93aa6323f16d79806d3828c7aaf72b7d5a1c",
+      "bytes": 2739
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/policies/pi05/__init__.py",
+      "sha256": "e70e27782532c2f871bf3fd812e43f796c11eb8193ff481dbeb4b2ef4a31b197",
+      "bytes": 873
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/policies/pi05/configuration_pi05.py",
+      "sha256": "170fe091e3c65fbec2f0767f9069da54efa5c7b9853850419b909eb034063640",
+      "bytes": 33140
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/policies/pi05/modeling_pi05.py",
+      "sha256": "31e2ea20bcb39f20afd1b14f3fe44f22a3440141fbd9e0d103d1b0819ab86ff0",
+      "bytes": 267506
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/policies/pi05/processor_pi05.py",
+      "sha256": "b7c3ae7752c7ffa914b875e7bcb297b8ce965e2765b4e334124c4a9a9a7a88b4",
+      "bytes": 12809
+    },
+    {
+      "path": "src/open_source/lerobot/src/lerobot/policies/pi05/revo2_relative.py",
+      "sha256": "d85b6ecc5f9d81ee8f8a895e743a3c3a7b2402cd8f5f26189ed8b486e802dd11",
+      "bytes": 4332
+    }
+  ]
+}
